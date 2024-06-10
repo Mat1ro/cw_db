@@ -4742,8 +4742,7 @@ publish/
 
 # Publish Web Output
 *.[Pp]ublish.xml
-*.azurePubxml
-# TODO: Comment the next line if you want to checkin your web deploy settings
+
 # but database connection strings (with potential passwords) will be unencrypted
 *.pubxml
 *.publishproj
@@ -5848,10 +5847,10 @@ www-test/
 #
 # Recommended template: Node.gitignore
 
-# TODO: where does this rule come from?
+
 docs/_book
 
-# TODO: where does this rule come from?
+
 test/
 
 ### Sass template
@@ -10134,7 +10133,6 @@ acs-*.bib
 # endnotes
 *.ent
 
-# fixme
 *.lox
 
 # feynmf/feynmp
@@ -10201,7 +10199,6 @@ acs-*.bib
 
 # knitr
 *-concordance.tex
-# TODO Uncomment the next line if you use knitr and want to ignore its generated tikz files
 # *.tikz
 *-tikzDictionary
 
@@ -10291,7 +10288,6 @@ pythontex-files-*/
 *.hst
 *.ver
 
-# easy-todo
 *.lod
 
 # xcolor
@@ -14636,7 +14632,6 @@ pickle-email-*.html
 !/log/.keep
 !/tmp/.keep
 
-# TODO Comment out this rule if you are OK with secrets being uploaded to the repo
 config/initializers/secret_token.rb
 config/master.key
 
@@ -14644,7 +14639,6 @@ config/master.key
 # config/secrets.yml
 
 # dotenv, dotenv-rails
-# TODO Comment out these rules if environment variables can be committed
 .env
 .env*.local
 
@@ -15715,7 +15709,6 @@ acs-*.bib
 # endnotes
 *.ent
 
-# fixme
 *.lox
 
 # feynmf/feynmp
@@ -15782,7 +15775,6 @@ acs-*.bib
 
 # knitr
 *-concordance.tex
-# TODO Uncomment the next line if you use knitr and want to ignore its generated tikz files
 # *.tikz
 *-tikzDictionary
 
@@ -15872,7 +15864,6 @@ pythontex-files-*/
 *.hst
 *.ver
 
-# easy-todo
 *.lod
 
 # xcolor
