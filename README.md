@@ -24,9 +24,5 @@
 <h2>Configuration</h2>
   <p>Update the database connection string in <code>db_manager.py</code> with your PostgreSQL database credentials:</p>
   <pre><code>postgresql://your_user:your_password@your_host/your_db_name</code></pre>
-
-<h2>Usage</h2>
-  <p>To run the program, execute the following command:</p>
-  <pre><code>poetry run python main.py</code></pre>
 </body>
 </html>
