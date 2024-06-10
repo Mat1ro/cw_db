@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cw-db"
+version = "0.1.0"
+description = ""
+authors = ["boronoff <romanticboron@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.3"
+psycopg2-binary = "^2.9.9"
+sqlalchemy = "^2.0.30"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

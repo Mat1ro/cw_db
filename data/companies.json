@@ -1,0 +1,666 @@
+[
+    {
+        "company_name": "BY business group",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам",
+                "salary": {
+                    "from": 120000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101513718",
+                "company_name": "BY business group"
+            }
+        ]
+    },
+    {
+        "company_name": "Валова Екатерина Дмитриевна",
+        "vacancies": [
+            {
+                "name": "Администратор магазина одежды (без опыта )выплаты каждую неделю",
+                "salary": {
+                    "from": 120000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/100530946",
+                "company_name": "Валова Екатерина Дмитриевна"
+            },
+            {
+                "name": "Администратор на выставку одежды",
+                "salary": {
+                    "from": 90000,
+                    "to": 120000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/96872372",
+                "company_name": "Валова Екатерина Дмитриевна"
+            },
+            {
+                "name": "Администратор магазина",
+                "salary": {
+                    "from": 90000,
+                    "to": 130000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/96758633",
+                "company_name": "Валова Екатерина Дмитриевна"
+            }
+        ]
+    },
+    {
+        "company_name": "Яндекс Команда для бизнеса",
+        "vacancies": [
+            {
+                "name": "Диспетчер чатов (в Яндекс)",
+                "salary": {
+                    "from": 30000,
+                    "to": 44000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/100620264",
+                "company_name": "Яндекс Команда для бизнеса"
+            },
+            {
+                "name": "Менеджер чатов, удаленно (в Яндекс)",
+                "salary": {
+                    "from": 30000,
+                    "to": 44000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/100633515",
+                "company_name": "Яндекс Команда для бизнеса"
+            }
+        ]
+    },
+    {
+        "company_name": "NTech",
+        "vacancies": [
+            {
+                "name": "Младший разработчик GoLang / Junior developer GoLang",
+                "salary": {
+                    "from": 70000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101514712",
+                "company_name": "NTech"
+            }
+        ]
+    },
+    {
+        "company_name": "Рост Развитие Решение",
+        "vacancies": [
+            {
+                "name": "Сборщик-комплектовщик",
+                "salary": {
+                    "from": 45000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101097037",
+                "company_name": "Рост Развитие Решение"
+            },
+            {
+                "name": "Менеджер по продажам (аренда инструментов)",
+                "salary": {
+                    "from": 85000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99792511",
+                "company_name": "Рост Развитие Решение"
+            },
+            {
+                "name": "Бухгалтер на первичную документацию",
+                "salary": {
+                    "from": 70000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99245549",
+                "company_name": "Рост Развитие Решение"
+            }
+        ]
+    },
+    {
+        "company_name": "Cornerstone Russia",
+        "vacancies": [
+            {
+                "name": "Глава правительства в Китай",
+                "salary": {
+                    "from": 1000000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101527356",
+                "company_name": "Cornerstone Russia"
+            }
+        ]
+    },
+    {
+        "company_name": "Aurum Queen",
+        "vacancies": [
+            {
+                "name": "Продавец-консультант бьюти-продукции",
+                "salary": {
+                    "from": 50000,
+                    "to": 150000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/99549487",
+                "company_name": "Aurum Queen"
+            }
+        ]
+    },
+    {
+        "company_name": "ФГБУ НМИЦ ГБ им. Гельмгольца Минздрава России",
+        "vacancies": [
+            {
+                "name": "Персональный водитель руководителя",
+                "salary": {
+                    "from": null,
+                    "to": 130000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101634289",
+                "company_name": "ФГБУ НМИЦ ГБ им. Гельмгольца Минздрава России"
+            }
+        ]
+    },
+    {
+        "company_name": "Паскаль Елена Федоровна",
+        "vacancies": [
+            {
+                "name": "Директор регионального представительства",
+                "salary": {
+                    "from": 350000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101603225",
+                "company_name": "Паскаль Елена Федоровна"
+            },
+            {
+                "name": "Директор регионального представительства",
+                "salary": {
+                    "from": 400000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101601014",
+                "company_name": "Паскаль Елена Федоровна"
+            }
+        ]
+    },
+    {
+        "company_name": "САЛАИР",
+        "vacancies": [
+            {
+                "name": "Семейный/персональный водитель",
+                "salary": {
+                    "from": 150000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101524599",
+                "company_name": "САЛАИР"
+            }
+        ]
+    },
+    {
+        "company_name": "Консалтинговая компания Sales Рекрутинг",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам (мотоциклетная экипировка)",
+                "salary": {
+                    "from": 90000,
+                    "to": 170000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101440305",
+                "company_name": "Консалтинговая компания Sales Рекрутинг"
+            }
+        ]
+    },
+    {
+        "company_name": "UniRenter",
+        "vacancies": [
+            {
+                "name": "Продавец - консультант в свадебный салон / Администратор магазина",
+                "salary": {
+                    "from": 35000,
+                    "to": 65000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99125737",
+                "company_name": "UniRenter"
+            }
+        ]
+    },
+    {
+        "company_name": "Стратегия Рост",
+        "vacancies": [
+            {
+                "name": "Персональный водитель руководителя",
+                "salary": {
+                    "from": 100000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101610122",
+                "company_name": "Стратегия Рост"
+            }
+        ]
+    },
+    {
+        "company_name": "Газпром газораспределение Уфа",
+        "vacancies": [
+            {
+                "name": "Специалист по договорной работе",
+                "salary": {
+                    "from": 50000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101613421",
+                "company_name": "Газпром газораспределение Уфа"
+            }
+        ]
+    },
+    {
+        "company_name": "Системлинк",
+        "vacancies": [
+            {
+                "name": "Личный водитель-помощник",
+                "salary": {
+                    "from": 95000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101624907",
+                "company_name": "Системлинк"
+            }
+        ]
+    },
+    {
+        "company_name": "Департамент Ф53",
+        "vacancies": [
+            {
+                "name": "Кассир в магазин здорового питания",
+                "salary": {
+                    "from": 59000,
+                    "to": 72000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/100884606",
+                "company_name": "Департамент Ф53"
+            },
+            {
+                "name": "Мобильный кассир в магазин здорового питания",
+                "salary": {
+                    "from": 65000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/100884605",
+                "company_name": "Департамент Ф53"
+            },
+            {
+                "name": "Бариста в магазин здорового питания",
+                "salary": {
+                    "from": 74000,
+                    "to": 91000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/100884604",
+                "company_name": "Департамент Ф53"
+            }
+        ]
+    },
+    {
+        "company_name": "Биософт",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам",
+                "salary": {
+                    "from": 85000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/100041868",
+                "company_name": "Биософт"
+            }
+        ]
+    },
+    {
+        "company_name": "Персонал Милы Кемпински",
+        "vacancies": [
+            {
+                "name": "Гувернантка/гувернер в Японию",
+                "salary": {
+                    "from": 300000,
+                    "to": 400000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101523797",
+                "company_name": "Персонал Милы Кемпински"
+            }
+        ]
+    },
+    {
+        "company_name": "ОКЕЙ – Федеральная розничная сеть",
+        "vacancies": [
+            {
+                "name": "Повар (Гипермаркеты О`кей)",
+                "salary": {
+                    "from": 58600,
+                    "to": 66500,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/86266707",
+                "company_name": "ОКЕЙ – Федеральная розничная сеть"
+            }
+        ]
+    },
+    {
+        "company_name": "GSR Technology",
+        "vacancies": [
+            {
+                "name": "Автослесарь",
+                "salary": {
+                    "from": 100000,
+                    "to": 150000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/99671632",
+                "company_name": "GSR Technology"
+            }
+        ]
+    },
+    {
+        "company_name": "Нефтепродукты",
+        "vacancies": [
+            {
+                "name": "Заместитель генерального директора по безопасности",
+                "salary": {
+                    "from": 150000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101526065",
+                "company_name": "Нефтепродукты"
+            }
+        ]
+    },
+    {
+        "company_name": "Рекрутикс",
+        "vacancies": [
+            {
+                "name": "Швея (пошив штор)",
+                "salary": {
+                    "from": 90000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99494952",
+                "company_name": "Рекрутикс"
+            }
+        ]
+    },
+    {
+        "company_name": "Попов Андрей Владимирович",
+        "vacancies": [
+            {
+                "name": "Водитель на Ларгус Фургон",
+                "salary": {
+                    "from": 80000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101552512",
+                "company_name": "Попов Андрей Владимирович"
+            }
+        ]
+    },
+    {
+        "company_name": "УК ГидроОГК",
+        "vacancies": [
+            {
+                "name": "Помощник руководителя",
+                "salary": {
+                    "from": 150000,
+                    "to": 180000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101525015",
+                "company_name": "УК ГидроОГК"
+            }
+        ]
+    },
+    {
+        "company_name": "Love.ru",
+        "vacancies": [
+            {
+                "name": "Водитель персональный",
+                "salary": {
+                    "from": 50000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101602837",
+                "company_name": "Love.ru"
+            }
+        ]
+    },
+    {
+        "company_name": "Удачная техника",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам B2B",
+                "salary": {
+                    "from": 50000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/85568108",
+                "company_name": "Удачная техника"
+            }
+        ]
+    },
+    {
+        "company_name": "UP business",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам",
+                "salary": {
+                    "from": 100000,
+                    "to": 250000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101432979",
+                "company_name": "UP business"
+            }
+        ]
+    },
+    {
+        "company_name": "Камелия",
+        "vacancies": [
+            {
+                "name": "Офисный водитель",
+                "salary": {
+                    "from": 70000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101554725",
+                "company_name": "Камелия"
+            }
+        ]
+    },
+    {
+        "company_name": "Берсо",
+        "vacancies": [
+            {
+                "name": "Водитель",
+                "salary": {
+                    "from": 50000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101618367",
+                "company_name": "Берсо"
+            }
+        ]
+    },
+    {
+        "company_name": "КАРИ",
+        "vacancies": [
+            {
+                "name": "Продавец-консультант КАРИ (ТЦ GOLD)",
+                "salary": {
+                    "from": 35000,
+                    "to": 50000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/100420516",
+                "company_name": "КАРИ"
+            }
+        ]
+    },
+    {
+        "company_name": "ГСП-ГСМ",
+        "vacancies": [
+            {
+                "name": "Водитель автомобиля легкового",
+                "salary": {
+                    "from": 125000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101574677",
+                "company_name": "ГСП-ГСМ"
+            }
+        ]
+    },
+    {
+        "company_name": "Иркутская нефтяная компания",
+        "vacancies": [
+            {
+                "name": "Ведущий инженер по надежности",
+                "salary": {
+                    "from": 337870,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101610195",
+                "company_name": "Иркутская нефтяная компания"
+            }
+        ]
+    },
+    {
+        "company_name": "КаМП",
+        "vacancies": [
+            {
+                "name": "Водитель персональный",
+                "salary": {
+                    "from": 61000,
+                    "to": 71000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101569767",
+                "company_name": "КаМП"
+            }
+        ]
+    },
+    {
+        "company_name": "ГАУ РК КДЦ РК в Москве",
+        "vacancies": [
+            {
+                "name": "Повар-универсал",
+                "salary": {
+                    "from": 60000,
+                    "to": 65000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/91558861",
+                "company_name": "ГАУ РК КДЦ РК в Москве"
+            }
+        ]
+    },
+    {
+        "company_name": "Абаканская Маркетинговая Компания",
+        "vacancies": [
+            {
+                "name": "SMM-менеджер",
+                "salary": {
+                    "from": 45000,
+                    "to": 50000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/98895756",
+                "company_name": "Абаканская Маркетинговая Компания"
+            }
+        ]
+    },
+    {
+        "company_name": "Крупная производственная компания",
+        "vacancies": [
+            {
+                "name": "Директор по персоналу",
+                "salary": {
+                    "from": 300000,
+                    "to": 500000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/101587209",
+                "company_name": "Крупная производственная компания"
+            }
+        ]
+    }
+]
