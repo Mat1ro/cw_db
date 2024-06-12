@@ -27,5 +27,7 @@ poetry install
 Update the database connection string in db_manager.py with your PostgreSQL database credentials:
 
 ```
-postgresql://your_user:your_password@your_host/your_db_name
+f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{db_name}"
 ```
+
+## For starting project you should run 'main.py' file
