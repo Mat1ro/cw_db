@@ -1,13 +1,22 @@
 import json
+from typing import Any, Dict, List
 
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, Session
 
 from db import engine
 from models import Company, Vacancy
 
 
-def load_data(path):
-    # Чтение данных из JSON файла
+def load_data(path: str) -> List[Dict[str, Any]]:
+    """
+    Reads data from a JSON file.
+
+    Args:
+        path (str): The path to the JSON file.
+
+    Returns:
+        List[Dict[str, Any]]: The data loaded from the JSON file.
+    """
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
@@ -15,8 +24,8 @@ def load_data(path):
 data = load_data("data/companies.json")
 
 # Создание сессии
-Session = sessionmaker(bind=engine)
-session = Session()
+SessionLocal = sessionmaker(bind=engine)
+session: Session = SessionLocal()
 
 # Вставка данных о работодателях и вакансиях
 for company_data in data:
