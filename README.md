@@ -1,28 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1>Coursework db</h1>
-  <p>This is a description of the project.</p>
+# Coursework db
 
-<h2>Dependencies</h2>
-  <ul>
-    <li>Python 3.11</li>
-    <li>PostgreSQL</li>
-    <li>poetry</li>
-  </ul>
+This is a description of the project.
 
-<h2>Installation</h2>
-  <p>First, clone the repository:</p>
-  <pre><code>git clone https://github.com/mat1ro/coursework_db.git</code></pre>
-  <p>Install dependencies using poetry:</p>
-  <pre><code>poetry install</code></pre>
+## Dependencies
 
-<h2>Configuration</h2>
-  <p>Update the database connection string in <code>db_manager.py</code> with your PostgreSQL database credentials:</p>
-  <pre><code>postgresql://your_user:your_password@your_host/your_db_name</code></pre>
-</body>
-</html>
+- Python 3.11
+- PostgreSQL
+- poetry
+
+## Installation
+
+First, clone the repository:
+
+```bash
+git clone https://github.com/mat1ro/coursework_db.git
+```
+
+Install dependencies using poetry:
+
+```
+poetry install
+```
+
+## Configuration
+
+Update the database connection string in db_manager.py with your PostgreSQL database credentials:
+
+```
+postgresql://your_user:your_password@your_host/your_db_name
+```
